@@ -1,5 +1,4 @@
 const path = require('path');
-// import path from 'path';
 
 const config = {
     entry: './src/index.tsx',
