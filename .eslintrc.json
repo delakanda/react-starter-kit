@@ -25,6 +25,7 @@
   ],
   "rules": {
     "linebreak-style": "off",
-    "require-jsdoc": "off"
+    "require-jsdoc": "off",
+    "indent": ["warn", 2]
   }
 }

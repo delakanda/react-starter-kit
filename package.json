@@ -16,7 +16,9 @@
     "dependencies": {
         "@types/react": "^16.9.25",
         "@types/react-dom": "^16.9.5",
+        "bootstrap": "^4.4.1",
         "react": "^16.13.1",
+        "react-bootstrap": "^1.0.0",
         "react-dom": "^16.13.1"
     },
     "devDependencies": {
