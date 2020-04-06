@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+      "module": "es2015",
+      "target": "es5",
+      "lib": ["es6", "dom"],
+      "sourceMap": false,
+      "allowJs": true,
+      "jsx": "react",
+      "moduleResolution": "node",
+      "rootDir": "./../",
+      "forceConsistentCasingInFileNames": true,
+      "noImplicitReturns": true,
+      "noImplicitThis": true,
+      "noImplicitAny": true,
+      "noResolve": false,
+      "strictNullChecks": true,
+      "suppressImplicitAnyIndexErrors": true,
+      "noUnusedLocals": true,
+      "allowSyntheticDefaultImports": true
+  },
+  "exclude": [
+      "node_modules",
+      "webpack.*"
+  ]
+}
